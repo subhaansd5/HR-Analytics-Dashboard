@@ -22,8 +22,9 @@ The dashboard is built to help HR departments visualize and analyze employee dat
 * **Microsoft Excel:** As the source for the raw employee data.
 
 ---
-
+```
 ## 📁 Repository Structure: 
 ├── README.md                 # This file
 ├── HR Analytics Data.xlsx    # The raw employee data
 └── HR Analytics Dashboard.pbix  # The final Power BI project file
+```

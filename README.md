@@ -17,14 +17,18 @@ The dashboard is built to help HR departments visualize and analyze employee dat
 ---
 
 ## Business Question
-The main objective of this project is to understand the factors influencing employee attrition. The analysis aims to identify which attributes—such as education, department, and age—have the highest correlation with the attrition rate.
+The main objective of this project is to understand the factors influencing employee attrition. The analysis aims to identify which attributes such as education, department, and age have the highest correlation with the attrition rate.
+
 ---
 
-# Methodologies
+## Methodologies
 This project followed a standard data analytics workflow:
 Data Ingestion: The project began by ingesting the raw data from a Microsoft Excel file (.xlsx) into Power BI.
+
 Data Transformation: While the data was pre-cleaned, further transformations were performed within Power Query to ensure data types were correct and to create any necessary calculated columns or measures.
+
 Visualization & Dashboarding: Visuals, including charts, graphs, and KPI cards, were created and arranged to form a coherent and interactive dashboard.
+
 ---
 
 ## 🛠️ Technologies Used
